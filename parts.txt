@@ -1,0 +1,20 @@
+2 nema 17 steppers ()
+4 8mm smooth rods (two 400mm-long and two 320mm-long)
+8 LM8UU
+2 GT2 pulleys
+10 F623ZZ bearings
+1 micro servo SG90 (plus a 250mm cable extender)
+1 Arduino UNO
+1 CNCshield
+2 Pololu stepsticks
+1 GT2 belt ( 1.4 meters long )
+2 M10 threaded rods (400mm-long each)
+8 M10 nuts
+8 30mm M3 screws with nuts
+8 6mm M3 screws
+4 16mm M3 screws with nuts
+4 M3 washers
+2 4mm OD, 100mm-long carbon fiber tubes
+2 15mm M3 screws
+1 12V 2A power supply
+1 USB cable
